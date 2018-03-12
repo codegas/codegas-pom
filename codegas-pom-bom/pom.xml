@@ -10,5 +10,6 @@
 
     <artifactId>codegas-pom-bom</artifactId>
     <packaging>pom</packaging>
+    <name>${project.groupId}:${project.artifactId}</name>
 
 </project>
