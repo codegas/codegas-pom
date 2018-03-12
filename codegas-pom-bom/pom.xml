@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>codegas-pom</artifactId>
         <groupId>org.codegas</groupId>
+        <artifactId>codegas-pom</artifactId>
         <version>1.0.1-SNAPSHOT</version>
     </parent>
 

@@ -51,7 +51,7 @@
     </properties>
 
     <modules>
-        <module>codegas-bom</module>
+        <module>codegas-pom-bom</module>
     </modules>
 
     <build>
