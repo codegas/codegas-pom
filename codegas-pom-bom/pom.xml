@@ -9,5 +9,6 @@
     </parent>
 
     <artifactId>codegas-pom-bom</artifactId>
+    <packaging>pom</packaging>
 
 </project>
