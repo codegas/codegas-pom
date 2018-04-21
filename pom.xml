@@ -4,7 +4,7 @@
 
     <groupId>org.codegas</groupId>
     <artifactId>codegas-pom</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.2-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Modules to be used as CodeGas Parent and Import POMs</description>
@@ -30,7 +30,7 @@
         <connection>scm:git:git://github.com/codegas/codegas-pom.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/codegas/codegas-pom.git</developerConnection>
         <url>http://github.com/codegas/codegas-pom/tree/master</url>
-        <tag>codegas-pom-1.1.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>

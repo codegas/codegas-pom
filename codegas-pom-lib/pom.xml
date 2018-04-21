@@ -5,7 +5,7 @@
     <parent>
         <artifactId>codegas-pom</artifactId>
         <groupId>org.codegas</groupId>
-        <version>1.1.1</version>
+        <version>1.1.2-SNAPSHOT</version>
     </parent>
 
     <artifactId>codegas-pom-lib</artifactId>
