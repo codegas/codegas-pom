@@ -50,6 +50,7 @@
 
     <modules>
         <module>codegas-pom-bom</module>
+        <module>codegas-pom-lib</module>
     </modules>
 
     <build>
